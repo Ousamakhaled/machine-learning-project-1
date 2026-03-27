@@ -1,4 +1,5 @@
 # Linear Regression Project (Python)
+Simple machine learning project focused on linear regression.
 
 This project demonstrates a basic implementation of Linear Regression using Python.
 
@@ -12,7 +13,7 @@ This project demonstrates a basic implementation of Linear Regression using Pyth
 - Python
 - NumPy
 - Pandas
-- Matplotlib / Seaborn
+- Matplotlib, Seaborn
 - Scikit-learn
 
 ## Dataset:
